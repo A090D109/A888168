@@ -7,6 +7,9 @@
 
 # 1005: Hash 
 - md5sum
+- https://github.com/MyDearGreatTeacher/A888168/blob/main/A888168.ipynb
+- 使用 Google Colab當作linux平台
+
 
 # 1012: LINUX + 隱寫術
 - [請點選下載上課用的系統](https://drive.google.com/file/d/1m620Z7KAOSUOLdFH92FYLE2NINb-vJsn/view?usp=sharing)
